@@ -1,0 +1,14 @@
+E:\Apps\ConsoleApp\Galaxy\bin\Debug\net6.0\Galaxy.exe
+E:\Apps\ConsoleApp\Galaxy\bin\Debug\net6.0\Galaxy.deps.json
+E:\Apps\ConsoleApp\Galaxy\bin\Debug\net6.0\Galaxy.runtimeconfig.json
+E:\Apps\ConsoleApp\Galaxy\bin\Debug\net6.0\Galaxy.dll
+E:\Apps\ConsoleApp\Galaxy\bin\Debug\net6.0\Galaxy.pdb
+E:\Apps\ConsoleApp\Galaxy\obj\Debug\net6.0\Galaxy.GeneratedMSBuildEditorConfig.editorconfig
+E:\Apps\ConsoleApp\Galaxy\obj\Debug\net6.0\Galaxy.AssemblyInfoInputs.cache
+E:\Apps\ConsoleApp\Galaxy\obj\Debug\net6.0\Galaxy.AssemblyInfo.cs
+E:\Apps\ConsoleApp\Galaxy\obj\Debug\net6.0\Galaxy.csproj.CoreCompileInputs.cache
+E:\Apps\ConsoleApp\Galaxy\obj\Debug\net6.0\Galaxy.dll
+E:\Apps\ConsoleApp\Galaxy\obj\Debug\net6.0\refint\Galaxy.dll
+E:\Apps\ConsoleApp\Galaxy\obj\Debug\net6.0\Galaxy.pdb
+E:\Apps\ConsoleApp\Galaxy\obj\Debug\net6.0\Galaxy.genruntimeconfig.cache
+E:\Apps\ConsoleApp\Galaxy\obj\Debug\net6.0\ref\Galaxy.dll
